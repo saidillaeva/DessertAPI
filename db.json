@@ -1,1 +1,164 @@
-
+{
+  "desserts": [
+    {
+      "id": 1,
+      "name": "Chocolate Donut",
+      "price": 2.99,
+      "image": "https://images.unsplash.com/photo-1604908812010-9f5202b2d58d",
+      "description": "Soft and rich chocolate-covered donut.",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Vanilla Cupcake",
+      "price": 3.49,
+      "image": "https://images.unsplash.com/photo-1601933470928-c9e7a3a4a57f",
+      "description": "Fluffy vanilla cupcake with cream frosting.",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Strawberry Cheesecake",
+      "price": 4.99,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b",
+      "description": "Creamy cheesecake with fresh strawberries.",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Macarons Box",
+      "price": 5.99,
+      "image": "https://images.unsplash.com/photo-1612197584565-e3bcff4d32e5",
+      "description": "Colorful assorted macarons in a box.",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Ice Cream Bowl",
+      "price": 3.75,
+      "image": "https://images.unsplash.com/photo-1590080876614-894f7e722c0f",
+      "description": "Mixed fruit-flavored ice cream scoops.",
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Blueberry Tart",
+      "price": 4.25,
+      "image": "https://images.unsplash.com/photo-1562059390-a761a084768e",
+      "description": "Fresh blueberry tart with a buttery crust.",
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Chocolate Cake",
+      "price": 6.99,
+      "image": "https://images.unsplash.com/photo-1599785209798-589d6a5e2611",
+      "description": "Layered moist chocolate cake with icing.",
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Tiramisu",
+      "price": 5.45,
+      "image": "https://images.unsplash.com/photo-1613145993487-7d43c3278753",
+      "description": "Classic Italian dessert with coffee and mascarpone.",
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "Fruit Tart",
+      "price": 4.65,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+      "description": "Colorful tart with assorted fresh fruits.",
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Cinnamon Roll",
+      "price": 3.99,
+      "image": "https://images.unsplash.com/photo-1598373182133-e13a9c8ac004",
+      "description": "Warm cinnamon roll with sugar glaze.",
+      "available": true
+    },
+    {
+      "id": 11,
+      "name": "Chocolate Donut",
+      "price": 2.99,
+      "image": "https://images.unsplash.com/photo-1604908812010-9f5202b2d58d",
+      "description": "Soft and rich chocolate-covered donut.",
+      "available": true
+    },
+    {
+      "id": 12,
+      "name": "Vanilla Cupcake",
+      "price": 3.49,
+      "image": "https://images.unsplash.com/photo-1601933470928-c9e7a3a4a57f",
+      "description": "Fluffy vanilla cupcake with cream frosting.",
+      "available": true
+    },
+    {
+      "id": 13,
+      "name": "Strawberry Cheesecake",
+      "price": 4.99,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b",
+      "description": "Creamy cheesecake with fresh strawberries.",
+      "available": true
+    },
+    {
+      "id": 14,
+      "name": "Macarons Box",
+      "price": 5.99,
+      "image": "https://images.unsplash.com/photo-1612197584565-e3bcff4d32e5",
+      "description": "Colorful assorted macarons in a box.",
+      "available": true
+    },
+    {
+      "id": 15,
+      "name": "Ice Cream Bowl",
+      "price": 3.75,
+      "image": "https://images.unsplash.com/photo-1590080876614-894f7e722c0f",
+      "description": "Mixed fruit-flavored ice cream scoops.",
+      "available": true
+    },
+    {
+      "id": 16,
+      "name": "Blueberry Tart",
+      "price": 4.25,
+      "image": "https://images.unsplash.com/photo-1562059390-a761a084768e",
+      "description": "Fresh blueberry tart with a buttery crust.",
+      "available": true
+    },
+    {
+      "id": 17,
+      "name": "Chocolate Cake",
+      "price": 6.99,
+      "image": "https://images.unsplash.com/photo-1599785209798-589d6a5e2611",
+      "description": "Layered moist chocolate cake with icing.",
+      "available": true
+    },
+    {
+      "id": 18,
+      "name": "Tiramisu",
+      "price": 5.45,
+      "image": "https://images.unsplash.com/photo-1613145993487-7d43c3278753",
+      "description": "Classic Italian dessert with coffee and mascarpone.",
+      "available": true
+    },
+    {
+      "id": 19,
+      "name": "Fruit Tart",
+      "price": 4.65,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+      "description": "Colorful tart with assorted fresh fruits.",
+      "available": true
+    },
+    {
+      "id": 20,
+      "name": "Cinnamon Roll",
+      "price": 3.99,
+      "image": "https://images.unsplash.com/photo-1598373182133-e13a9c8ac004",
+      "description": "Warm cinnamon roll with sugar glaze.",
+      "available": true
+    }
+  ]
+}
